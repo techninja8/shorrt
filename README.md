@@ -1,4 +1,4 @@
-# Shorrt: A Simple URL Shortener Service
+# Shorrt: Go-Powered URL Link Shortner
 
 Shorrt is a URL shortening service implemented in Go. It allows users to shorten long URLs into short, unique links, optionally customize the short links, track access counts, and set expiration dates. It also generates QR codes for each shortened URL. This document provides detailed information about the architecture, functionalities, and usage of Shorrt.
 
